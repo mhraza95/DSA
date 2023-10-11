@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86cfe8e0-1816-4c4a-8be2-518b1c58d7f9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DSA.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/Solution2251.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BinarySearch/number-of-flowers-in-full-bloom" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/BinarySearch/Solution2251.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/BinarySearch/Solution2251.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +61,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697011479236</updated>
-      <workItem from="1697011480255" duration="1116000" />
+      <workItem from="1697011480255" duration="1646000" />
     </task>
     <servers />
   </component>
@@ -96,7 +89,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BinarySearch/Solution2251.java</url>
-          <line>10</line>
+          <line>11</line>
           <properties class="BinarySearch.Solution2251" method="fullBloomFlowers">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />

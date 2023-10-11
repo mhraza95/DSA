@@ -3,6 +3,7 @@ package BinarySearch;
 import java.util.Arrays;
 
 /*
+    Problem 2251: Number of flowers in Full Bloom
     separate start and end time
     Sort the start and ned time arrays
     Binary search to find bloomed and dead flowers
