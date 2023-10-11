@@ -7,6 +7,9 @@ import java.util.Arrays;
     separate start and end time
     Sort the start and ned time arrays
     Binary search to find bloomed and dead flowers
+
+    Time Complexity - O((N+M) log(N));
+    Space Complexity - O(N)
  */
 public class Solution2251 {
     public int[] fullBloomFlowers(int[][] flowers, int[] people) {
