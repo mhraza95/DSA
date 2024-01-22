@@ -5,6 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86cfe8e0-1816-4c4a-8be2-518b1c58d7f9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Recursion/HeadRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/IndirectRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/NestedRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/TailRecursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Recursion/TreeRecursion.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +67,10 @@
       <updated>1697011479236</updated>
       <workItem from="1697011480255" duration="1646000" />
       <workItem from="1697159048716" duration="2960000" />
-      <workItem from="1698157089127" duration="1344000" />
+      <workItem from="1698157089127" duration="2568000" />
+      <workItem from="1702651943056" duration="1196000" />
+      <workItem from="1703489508781" duration="675000" />
+      <workItem from="1705946403523" duration="2109000" />
     </task>
     <servers />
   </component>
@@ -88,14 +96,137 @@
           <line>13</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/TailRecursion.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/TailRecursion.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/HeadRecursion.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/HeadRecursion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/TreeRecursion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/TreeRecursion.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/TreeRecursion.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/NestedRecursion.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/NestedRecursion.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/IndirectRecursion.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/IndirectRecursion.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Recursion/IndirectRecursion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/BinarySearch/Solution2251.java</url>
           <line>11</line>
-          <properties class="BinarySearch.Solution2251" method="fullBloomFlowers">
+          <properties class="BinarySearch.Solution2251">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/TailRecursion.java</url>
+          <line>5</line>
+          <properties class="Recursion.TailRecursion" method="fun">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/HeadRecursion.java</url>
+          <line>5</line>
+          <properties class="Recursion.HeadRecursion" method="fun">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/TreeRecursion.java</url>
+          <line>5</line>
+          <properties class="Recursion.TreeRecursion" method="fun">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/NestedRecursion.java</url>
+          <line>4</line>
+          <properties class="Recursion.NestedRecursion" method="fun">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/IndirectRecursion.java</url>
+          <line>4</line>
+          <properties class="Recursion.IndirectRecursion" method="funA">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/IndirectRecursion.java</url>
+          <line>14</line>
+          <properties class="Recursion.IndirectRecursion" method="funB">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Recursion/IndirectRecursion.java</url>
+          <line>25</line>
+          <properties class="Recursion.IndirectRecursion" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
